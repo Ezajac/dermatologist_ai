@@ -1,0 +1,14 @@
+.DS_Store
+data/
+saved_models/
+
+# Images #
+###################
+*.jpg
+*.py
+*.png
+
+# Saved Data and Models #
+*.pkl
+*.h5
+*.hdf5
